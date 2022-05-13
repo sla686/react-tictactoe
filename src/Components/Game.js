@@ -37,7 +37,7 @@ const Game = () => {
         setBoard(Array(9).fill(null));
       }}
     >
-      Start Game
+      Restart
     </button>
   );
 
